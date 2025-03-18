@@ -7,6 +7,7 @@ Projet de développement d'application web : L'objectif est, à partir d'une bas
 
 Les principales fonctionnalités à implémenter incluent :
 
+- Utilisation d'une base de données (fichier) pour permettre le dynamisme des produits. 
 - Dynamisme : Interaction de l'utilisateur avec les différents boutons proposés pour une navigation fluide.
 - Automatisme : Processus automatisés pour simplifier et améliorer l'expérience utilisateur.
 - Panier : Système de gestion du panier d'achat, incluant la gestion des quantités et un tri des articles à l'intérieur du panier.
