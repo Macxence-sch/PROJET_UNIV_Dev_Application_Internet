@@ -3,7 +3,7 @@
 Projet L2S1, Développement d'application internet 
 
 
-Projet de développement d'application web : L'objectif est, à partir d'une base de boutique en HTML/CSS, de développer le fichier JavaScript afin de permettre le bon fonctionnement de la boutique.
+Projet de développement d'application internet : L'objectif est, à partir d'une base de boutique en HTML/CSS, de développer le fichier JavaScript afin de permettre le bon fonctionnement de la boutique.
 
 Les principales fonctionnalités à implémenter incluent :
 
